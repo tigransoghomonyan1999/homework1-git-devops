@@ -1,0 +1,654 @@
+    1  sudo apt-cache search mariadb-server
+    2  sudo apt install mariadb-server
+    3  sudo mysql -u root 
+    4  exit
+    5  exi
+    6  exit
+    7  exi
+    8  exit
+    9  exite
+   10  exit
+   11  sudo apt-get update
+   12  sudo apt-get install google-chrome-stable
+   13  sudo apt install google-chrome-stable
+   14  sudo apt install google-chrome
+   15  sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+   16  wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+   17  sudo apt-get update
+   18  sudo apt-get install google-chrome-stable
+   19  exit
+   20  sudo snap install --classic code
+   21  sudo apt install git
+   22  cd Desktop/
+   23  mkdir co2efficient
+   24  cd co2efficient/
+   25  npm install
+   26  nodem
+   27  nodemon
+   28  ping facebook.com
+   29  nodemon --port 3001
+   30  exit
+   31  npm install swagger-ui-express
+   32  npm install swagger-jsdoc
+   33  exit
+   34  nodemon 
+   35  sudo apt-cache search filezilla
+   36  cd Desktop/co2efficient/
+   37  git clone https://gitlab.com/alphazetta-armenia/co2-efficient-back-end.git
+   38  ls
+   39  cd co2-efficient-back-end/
+   40  ls
+   41  code .
+   42  sudo apt install npm
+   43  nom -v
+   44  npm -v
+   45  node -v
+   46  npx -v
+   47  npm install nodemon
+   48  code .
+   49  npm remove nodemon 
+   50  npm install -g nodemon
+   51  sudo npm install -g nodemon
+   52  cp ~/Downloads/tigran-vm.pem ~
+   53  ls
+   54  ll
+   55  ssh ubuntu@18.116.52.236
+   56  ssh -i tigran-vm.pem ubuntu@18.116.52.236
+   57  sudo chmod 600 tigran-vm.pem 
+   58  ssh -i tigran-vm.pem ubuntu@18.116.52.236
+   59  sudo apt install ./zoom_amd64.deb
+   60  sudo apt install gdebi
+   61  sudo apt install ./zoom_amd64.deb
+   62  sudo apt install gdebi
+   63  sudo apt install ./zoom_amd64.deb
+   64  sudo apt install gdebi
+   65  sudo apt install ./zoom_amd64.deb
+   66  mkdir test
+   67  cd test/
+   68  git clone https://github.com/arkocharyan/bdg-test
+   69  ls
+   70  cd bdg-test/
+   71  ls
+   72  cat file1 
+   73  git remote -v
+   74  echo "Hello from Tigran" >> file1 
+   75  git status 
+   76  git add .
+   77  git commit -m "add hello text"
+   78  git config user.email "tigran.soghomonyan@goya.am"
+   79  git config user.name "tigran soghomonyan"
+   80  git commit -m "add hello text"
+   81  git push
+   82  git rm file1 
+   83  git status
+   84  ls
+   85  git revert --soft
+   86  git reset --hard
+   87  ls
+   88  git status
+   89  git pull
+   90  touch file3
+   91  echo "Hello" >> file3
+   92  git status
+   93  git add .
+   94  git status
+   95  git commit -m "add file3"
+   96  git status
+   97  git log --online
+   98  git log --oneline
+   99  git pull
+  100  ls -la
+  101  git pull
+  102  ls -la
+  103  cd .git/
+  104  ls
+  105  cd ..
+  106  git pull
+  107  ls -la
+  108  cd ..
+  109  git pull
+  110  ls
+  111  ls -la
+  112  git pull
+  113  cd bdg-test/
+  114  ls
+  115  ls -la
+  116  git pull
+  117  git log --oneline
+  118  git reset 7a496b2 --hard 
+  119  git log --oneline
+  120  git pu;;
+  121  git pull
+  122  ll
+  123  cd ..
+  124  rm -r bdg-test/
+  125  git clone https://github.com/arkocharyan/bdg-test
+  126  cd bdg-test/
+  127  ls
+  128  ll
+  129  cat .gitignore 
+  130  git log
+  131  git pull
+  132  git log --oneline
+  133  ls
+  134  nodemon 
+  135  git status
+  136  sudo mysql -u root -p
+  137  exit
+  138  cd /var/
+  139  ls
+  140  cd www/
+  141  ls
+  142  cd files/
+  143  ls
+  144  cd journals/
+  145  ls
+  146  cd 1
+  147  ls
+  148  cd articles/
+  149  ls
+  150  cd ..
+  151  cd issues/
+  152  ls
+  153  cd ..
+  154  ls
+  155  ll
+  156  cd ..
+  157  ll
+  158  cd ..
+  159  ll
+  160  cd ..
+  161  ls
+  162  ll
+  163  cd html/
+  164  ls
+  165  ll
+  166  exit
+  167  sudo apt upgrade 
+  168  sudo apt install apache2 -y
+  169  sudo apt install php
+  170  cd Desktop/co2efficient/
+  171  ls
+  172  cd co2-efficient-back-end/
+  173  ls
+  174  git status
+  175  git pull
+  176  git status
+  177  cd /var/www/html/
+  178  ls
+  179  rm index.html 
+  180  ls
+  181  sudo rm index.html 
+  182  sudo mv ~/Desktop/ojs-3.3.0-3/ .
+  183  ls
+  184  cd ojs-3.3.0-3/
+  185  ll
+  186  cd ..
+  187  ls
+  188  cd mv ojs-3.3.0-3/* .
+  189  sudo mv ojs-3.3.0-3/* .
+  190  ls
+  191  cd ojs-3.3.0-3/
+  192  ls
+  193  cd ..
+  194  rm -r ojs-3.3.0-3/
+  195  sudo rm -r ojs-3.3.0-3/
+  196  ls
+  197  sudo chown -R www-data config.inc.php public/ cache/ 
+  198  ll
+  199  cd cache/
+  200  ll
+  201  cd ..
+  202  cd ../
+  203  sudo mkdir files
+  204  ls
+  205  sudo chown www-data files/
+  206  ll
+  207  sudo chmod 777 files/
+  208  ll
+  209  sudo chmod 755 files/
+  210  ll
+  211  cd ..
+  212  ll
+  213  cd log/
+  214  ls
+  215  cd ap
+  216  cd apache2/
+  217  ls
+  218  less error.log 
+  219  sudo apt install php-xml
+  220  sudo systemctl restart apache2
+  221  ls
+  222  less error.log 
+  223  sudo apt install php-mbstring
+  224  sudo systemctl restart apache2
+  225  sudo apt install php-mysql
+  226  sudo systemctl restart apache2
+  227  cd /etc/php/7.4/apache2/
+  228  ll
+  229  vim php.ini 
+  230  sudo apt install vim -y
+  231  vim php.ini 
+  232  sudo vim php.ini 
+  233  sudo systemctl restart apache2
+  234  sudo mariadb
+  235  exit
+  236  cd Desktop/
+  237  mkdir cccs
+  238  cd cccs/
+  239  git clone git@gitlab.goya.am:sona.aramyan/cccs-project.git
+  240  ssh-keygen -t rsa
+  241  cd /home/tigran/.ssh/
+  242  ls
+  243  cat id_rsa.pub 
+  244  cd ~/Desktop/cccs/
+  245  git clone git@gitlab.goya.am:sona.aramyan/cccs-project.git
+  246  ls
+  247  mv cccs-project/* .
+  248  rm -r cccs-project/
+  249  ls
+  250  git status
+  251  cd ..
+  252  rm -r cccs -y
+  253  rm -R cccs
+  254  history | tail -30 | grep git clone
+  255  history | tail -30 | grep "git clone"
+  256  git clone git@gitlab.goya.am:sona.aramyan/cccs-project.git
+  257  cd cccs-project/
+  258  git status
+  259  git log --oneline
+  260  ls
+  261  code .
+  262  exit
+  263  cd Desktop/cccs-project/public/
+  264  ls
+  265  mv img1108/* .
+  266  ls
+  267  rm -r img1108/
+  268  ls
+  269  exit
+  270  npm start
+  271  npm install 
+  272  npm start
+  273  cd Desktop/cccs-project/
+  274  ls
+  275  code .
+  276  git status
+  277  git pull
+  278  code .
+  279  git status
+  280  git add .
+  281  git commit -m "add pages policyPaper, monographs and source-of-armenian-diplomacy"
+  282  git config user.email "soghomontogo@gmail.com"
+  283  git config user.name "Tigran Soghomonyan"
+  284  git commit -m "add pages policyPaper, monographs and source-of-armenian-diplomacy"
+  285  git push
+  286  exit
+  287  code .
+  288  cd co2efficient/
+  289  ls
+  290  cd co2-efficient-back-end/
+  291  git status
+  292  git add .
+  293  git status
+  294  git commit -m "convert api documentation from yaml to json"
+  295  git config user.email "soghomontogo@gmail.com"
+  296  git config user.name "Tigran Soghomonyan"
+  297  git commit -m "convert api documentation from yaml to json"
+  298  git status
+  299  git log --oneline
+  300  git reset --soft
+  301  git status
+  302  git log --oneline
+  303  code .
+  304  git commit --amend
+  305  git log --oneline
+  306  git push
+  307  git config user.name "Sos Sargsyan"
+  308  git config user.email "sos.sargsyan.se@gmail.com"
+  309  ll
+  310  cd .git/
+  311  ll
+  312  cat config 
+  313  exit
+  314  npm start
+  315  git status
+  316  git add .
+  317  git commit -m "Merge conflict"
+  318  git log --oneline
+  319  git push
+  320  npm start
+  321  exit
+  322  ls
+  323  cd co2-efficient-back-end/
+  324  ls
+  325  code .
+  326  git status
+  327  git pull
+  328  git status 
+  329  git add .
+  330  git commit -m "Add documentatin for user-payment route"
+  331  git log --oneline
+  332  exit
+  333  npm start
+  334  nodemon 
+  335  npm run dev
+  336  next dev
+  337  npm run dev v
+  338  npm run dev
+  339  ls
+  340  cd Desktop/
+  341  ls
+  342  npx create-next-app nextjs-test
+  343  cd nextjs-test/
+  344  ls
+  345  cd styles/
+  346  ls
+  347  cd ../..
+  348  rm -r nextjs-blog/
+  349  cd nextjs-test/
+  350  code .
+  351  ll
+  352  cd ..
+  353  ll
+  354  cd tigran/
+  355  ll
+  356  cd .ssh/
+  357  ls
+  358  cat id_rsa.pub 
+  359  cd ~/Desktop/
+  360  mkdir test
+  361  cd test/
+  362  ls
+  363  git clone git@github.com:tigransoghomonyan1999/Codes.git
+  364  ls
+  365  cd Codes/
+  366  ls
+  367  cat Re
+  368  cat README.md 
+  369  clear
+  370  cd ..
+  371  git log --oneline
+  372  ls
+  373  cd Codes/
+  374  git status
+  375  git branch -v
+  376  git log --oneline
+  377  touch test.txt
+  378  echo "Hello world" >> test.txt 
+  379  cat test.txt 
+  380  git status
+  381  rm test.txt 
+  382  git status
+  383  cleat
+  384  clear
+  385  git branch
+  386  git branch feature/TEST-1
+  387  git checkout feature/TEST-1 
+  388  git branch
+  389  vim test2
+  390  git add .
+  391  git commit -m "test2 commit"
+  392  git config user.email "soghomontogo@gmail.com"
+  393  git config user.name "Tigran Soghomonyan"
+  394  git commit -m "test2 commit"
+  395  git log --oneline
+  396  git checkout master 
+  397  git merge feature/TEST-1 
+  398  git log --oneline
+  399  git branch
+  400  cd ..
+  401  git clone git@github.com:tigransoghomonyan1999/bdg-tutorial.git
+  402  ls
+  403  cd bdg-tutorial/
+  404  ls
+  405  echo "Tigran Soghomonyan" >> initial-file.txt
+  406  ls
+  407  git status
+  408  git add .
+  409  git commit -m "initial commit"
+  410  git config user.name "Tigran Soghomonyan"
+  411  git config user.email "soghomontogo@gmail.com"
+  412  git commit -m "initial commit"
+  413  git push 
+  414  git branch new_branch
+  415  git checkout new_branch 
+  416  echo "born in 1999" >> second-file.txt
+  417  git add .
+  418  git commit -m "second commit"
+  419  git checkout master 
+  420  git merge new_branch 
+  421  ls
+  422  git push
+  423  git push -u origin new_branch 
+  424  history | tail -30
+  425  git branch
+  426  cd ..
+  427  ls
+  428  git clone https://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@github.com/arkocharyan/test.git 
+  429  cd 
+  430  cd Desktop/test/
+  431  ls
+  432  cd test/\
+  433  cd test/
+  434  ls
+  435  cat README.md 
+  436  clear
+  437  ls
+  438  cd ..
+  439  ls
+  440  rm -r bdg-tutorial test Codes
+  441  rm -R bdg-tutorial test Codes
+  442  rm -r bdg-tutorial test Codes -y
+  443  rm -ry bdg-tutorial test Codes
+  444  rm -rf bdg-tutorial test Codes
+  445  ls
+  446  cd ..
+  447  ls
+  448  rm -rf test
+  449  ls
+  450  exit
+  451  ls
+  452  code .
+  453  ls
+  454  git status
+  455  git pull
+  456  git ls
+  457  git log --oneline
+  458  cd ~/Desktop/
+  459  ls
+  460  zip images.zip ~/Desktop/cccs-project/public/images
+  461  zip -r images.zip ~/Desktop/cccs-project/public/images
+  462  zip -r aboutUsIcons.zip ~/Desktop/cccs-project/public/images/aboutUsIcons
+  463  zip -r a.zip ~/Desktop/cccs-project/public/images/aboutUsIcons
+  464  sudo zip -r a.zip ~/Desktop/cccs-project/public/images/aboutUsIcons
+  465  zip -r images2.zip ~/Desktop/cccs-project/public/images
+  466  ls
+  467  unzip -r aboutUsIcons.zip .
+  468  unzip  aboutUsIcons.zip newImages
+  469  unzip  aboutUsIcons aboutUsIcons.zip 
+  470  unzip aboutUsIcons.zip images
+  471  unzip aboutUsIcons.zip ~/Desktop/images
+  472  unzip aboutUsIcons.zip
+  473  unzip aboutUsIcons.zip -d .
+  474  rm images
+  475  ls
+  476  rm *.zip
+  477  ls
+  478  cd cccs-project/public/images/
+  479  ls
+  480  cd aboutUsIcons/
+  481  ls
+  482  zip ~/Desktop/images.zip *
+  483  cd ~/Desktop/
+  484  ls
+  485  cd images/
+  486  ls
+  487  cd ..
+  488  ls
+  489  rm -r images*
+  490  ls
+  491  cd portfolio/
+  492  ls
+  493  cd ..
+  494  rm -r portfolio/
+  495  ls
+  496  cd home/
+  497  l
+  498  cd tigran/
+  499  cd Desktop/
+  500  cd cccs-project/
+  501  cd public/
+  502  cd images/
+  503  cd aboutUsIcons/
+  504  ls
+  505  cd ../../../../
+  506  cd ../../../
+  507  ls
+  508  rm -r home
+  509  ls
+  510  npm install express
+  511  nodemon server.js 
+  512  npm install mongoose
+  513  npm install --save mongoose
+  514  npm init
+  515  ls
+  516  nodemon server.js 
+  517  npm install body-parser
+  518  nodemon serv
+  519  git log --oneline
+  520  npm start
+  521  ls
+  522  cd cccs-
+  523  cd cccs-frontend/
+  524  ls
+  525  npm start
+  526  code .
+  527  cd routes/
+  528  ls
+  529  mv models/ ..
+  530  ls
+  531  cd ..
+  532  ls
+  533  cd routes/
+  534  mv services/ ..
+  535  cd ..
+  536  mkdir controllers
+  537  mkdir middlewares
+  538  cd ~/Desktop/co2efficient/
+  539  ls
+  540  cd co2-efficient-back-end/
+  541  code .
+  542  nodemon server.js 
+  543  npm start
+  544  cd cccs-frontend/
+  545  npm start
+  546  git status
+  547  git log --oneline
+  548  cd ..
+  549  git log --oneline
+  550  clear
+  551  ssh ubutu@18.221.98.246
+  552  history | grep ssh
+  553  ll
+  554  cd .ssh/
+  555  ls
+  556  cd ..
+  557  cd /
+  558  find tigran-vm.pem
+  559  find tigran-vm.pem .
+  560  cd home/tigran/
+  561  ls
+  562  ssh -i tigran-vm.pem ubuntu@18.221.98.246
+  563  clear
+  564  cd Desktop/
+  565  ls
+  566  cd ..
+  567  ls
+  568  ssh -i tigran-vm.pem ubuntu@18.221.98.246
+  569  exit
+  570  code .
+  571  cd ../cccs-project/
+  572  ls
+  573  code .
+  574  cd Desktop/
+  575  l;s
+  576  l
+  577  sls
+  578  ls
+  579  cd cccs-project/
+  580  cd cccs-backend/
+  581  ls
+  582  code .
+  583  cd ~/Desktop/co2efficient/
+  584  cd co2-efficient-back-end/
+  585  ls
+  586  code .
+  587  cd ~/Desktop/
+  588  ls
+  589  cd cccs-project/
+  590  ls
+  591  mv cccs-backend ..
+  592  mv cccs-frontend/* .
+  593  ls
+  594  rm -r cccs-frontend/
+  595  ls
+  596  git status
+  597  git add .
+  598  git commit -m "Add comented backend integration part to PolicyPaper.js file"
+  599  git pull
+  600  git push
+  601  exit
+  602  code .
+  603  ls
+  604  npm start
+  605  npm install
+  606  npm start
+  607  ls
+  608  code .
+  609  cd ..
+  610  git clone https://gitlab.asmo.media/med_project/admin_react.git
+  611  ls
+  612  cd admin_react/
+  613  code .
+  614  cd ..
+  615  ls
+  616  git clone https://gitlab.asmo.media/med_project/Mobile-Back.git
+  617  ls
+  618  cd Mobile-Back/
+  619  code .
+  620  redis-server
+  621  sudo apt install redis-server
+  622  redis-server
+  623  netstat -tulpn
+  624  sudo apt install net-tools
+  625  netstat -tulpn
+  626  lsof -i:6379
+  627  redis-server
+  628  lsof -i:6379
+  629  netstat -tulpn
+  630  lsof -i:6379
+  631  kill -9 $(lsof -t -i tcp:6379)
+  632  kill  $(lsof -t -i tcp:6379)
+  633  kill $(lsof -t -i tcp:6379)
+  634  kill -9 $(lsof -t -i tcp:6379)
+  635  lsof -t -i tcp:6379
+  636  exit
+  637  cd Desktop/homework-git/
+  638  git clone git@github.com:tigransoghomonyan1999/homework1-git-devops.git
+  639  ls
+  640  cd homework1-git-devops/
+  641  ls
+  642  echo "Tigran Soghomonyan" >> author
+  643  ls
+  644  git status
+  645  git add .
+  646  git commit -m "initial commit"
+  647  git config user.email "soghomontogo@gmail.com"
+  648  git config user.name "Tigran Soghomonyan"
+  649  git commit -m "initial commit"
+  650  git push
+  651  git branch bash-history
+  652  git branch
+  653  git checkout bash-history 
+  654  history >> history1
